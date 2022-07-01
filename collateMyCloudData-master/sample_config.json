@@ -1,0 +1,16 @@
+{
+    "username": "***",
+    "password": "***",
+    "properties": {
+        "EBH Coorg": "1",
+        "EBH Hampi": "2",
+        "EBH Kabini": "3"
+    },
+    "start_month_offset": 0,
+    "end_month_offset": 11,
+    "chrome_driver_path": "CHROME_PATH",
+    "download_dir": "DOWNLOAD_DIR",
+    "google_cloud_cred": "xxx.json",
+    "bucket_name": "test",
+    "delta_csv_dir": "delta_csv"
+}
